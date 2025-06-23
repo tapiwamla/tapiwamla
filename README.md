@@ -1,3 +1,3 @@
 ### Hi, you've reached ⬇️
 
-![Cover Image](https://github.com/tapiwamla/tapiwamla/blob/main/assets/background-lnkdin.jpeg)
+![Cover Image](./assets/background-banner.png)
