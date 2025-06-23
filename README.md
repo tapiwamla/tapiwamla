@@ -1,3 +1,3 @@
 ### Hi, you've reached ⬇️
 
-![Cover Image](./assets/background-banner.png)
+![Cover Image](./assets/banner.png)
